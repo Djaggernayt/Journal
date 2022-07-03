@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JR", "JR\JR.csproj", "{A682A3FA-004C-49A6-917C-8350B92B55A7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setuper", "Setuper\Setuper.vdproj", "{844A93DC-2B85-4A51-9180-BE90B8929A08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A682A3FA-004C-49A6-917C-8350B92B55A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A682A3FA-004C-49A6-917C-8350B92B55A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A682A3FA-004C-49A6-917C-8350B92B55A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A682A3FA-004C-49A6-917C-8350B92B55A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844A93DC-2B85-4A51-9180-BE90B8929A08}.Debug|Any CPU.ActiveCfg = Debug
+		{844A93DC-2B85-4A51-9180-BE90B8929A08}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D2ED338-A427-48F6-9B80-A545C5A1A6DF}
+	EndGlobalSection
+EndGlobal
