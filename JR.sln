@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JR", "JR\JR.csproj", "{A682
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setuper", "Setuper\Setuper.vdproj", "{844A93DC-2B85-4A51-9180-BE90B8929A08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{A307A9B3-6BB9-4BFC-86CB-171673C22527}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{A682A3FA-004C-49A6-917C-8350B92B55A7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{844A93DC-2B85-4A51-9180-BE90B8929A08}.Debug|Any CPU.ActiveCfg = Debug
 		{844A93DC-2B85-4A51-9180-BE90B8929A08}.Release|Any CPU.ActiveCfg = Release
+		{A307A9B3-6BB9-4BFC-86CB-171673C22527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A307A9B3-6BB9-4BFC-86CB-171673C22527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A307A9B3-6BB9-4BFC-86CB-171673C22527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A307A9B3-6BB9-4BFC-86CB-171673C22527}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
